@@ -2,7 +2,7 @@ import unittest
 
 import pandas as pd
 
-from project import *
+from project import  *
 from inspect import signature
 import os
 
